@@ -62,7 +62,7 @@ Working Link:https://chatapp-b9c68.web.app/
         - Remaining users see that the user has left.
      - This prevents "ghost users" in rooms.
 
-  - 3. Behind the Scenes (Technical Workflow)
+   - Behind the Scenes (Technical Workflow)
      - 1. User enters a username → Validated by the server.
      - 2. User selects/creates a room → Server stores user in that room.
      - 3. User sends a message → Sent to server → Broadcast to all room members.
